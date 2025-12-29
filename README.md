@@ -14,3 +14,9 @@ It includes data cleaning, analysis, and visualization.
 - Dataset
 - Presentation (PPT)
 
+## Files Included
+- cyber_threat_analysis.ipynb
+- cyber_threat_data.csv
+- Cyber_Threat_Analysis_Presentation.pptx
+
+
