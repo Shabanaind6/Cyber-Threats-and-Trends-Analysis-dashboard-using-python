@@ -1,2 +1,16 @@
 # Cyber Threat Trend Analysis Dashboard
-This Python project analyzes cyber threat trends using Pandas, Matplotlib, and Seaborn. It includes data cleaning, visualization, and an interactive dashboard for actionable insights.
+
+This project analyzes cyber threat trends using Python.
+It includes data cleaning, analysis, and visualization.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+## Project Files
+- Python notebook (Google Colab)
+- Dataset
+- Presentation (PPT)
+
